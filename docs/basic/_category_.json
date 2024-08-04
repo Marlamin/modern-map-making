@@ -1,0 +1,8 @@
+{
+  "label": "Basic",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "What follows is a basic tutorial for people who are new to WoW modding. If you are familiar with WoW modding already, you can skip ahead to the relevant sections in the sidebar on the left."
+  }
+}
