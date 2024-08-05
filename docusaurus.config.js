@@ -69,6 +69,11 @@ const config = {
             href: 'https://discord.gg/q4tRTwwDEQ',
             label: 'Discord',
             position: 'left',
+          },
+          {
+            href: 'https://www.youtube.com/watch?v=TP8YpgiGOPs',
+            label: 'Video guide',
+            position: 'left',
           }
         ],
       },
