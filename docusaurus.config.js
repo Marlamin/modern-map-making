@@ -64,6 +64,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            href: 'https://discord.gg/q4tRTwwDEQ',
+            label: 'Discord',
+            position: 'left',
           }
         ],
       },
