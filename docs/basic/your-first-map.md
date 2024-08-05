@@ -15,3 +15,5 @@ Now that setup is done, it's time to start editing!
 ## Welcome to your new home
 Now that you are finally inside Noggit's world editor, make sure to look around and explore the UI for a bit first.  
 Also check out Help -> Key Bindings for basic key binding information.
+
+*This is where the tutorial ends for now, but we're working on adding more very soon.*
