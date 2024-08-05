@@ -8,7 +8,7 @@ You will need various things to get started with WoW modding, but don't worry, w
 
 ## What you'll need
 ### WoW client
-Right now the tools all work with 3.3.5 assets only, so you'll need a 3.3.5a.12340 enUS client. We can't host one for obvious reasons but it should be relatively easy to find through sites like wowdl.net.  
+Right now Noggit only works with 3.3.5 assets only, so you'll need a 3.3.5a.12340 enUS client. We can't host one for obvious reasons but it should be relatively easy to find through sites like wowdl.net.  
 **Note:** Make sure to put it somewhere where you have enough space for the client (~20GB) and the downconverted assets (~25GB).
 
 ### Downported assets

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-slug: /your-first-edits
+sidebar_position: 4
+slug: /your-first-map
 ---
 
 # Your first map
@@ -14,6 +14,8 @@ Now that setup is done, it's time to start editing!
 
 ## Welcome to your new home
 Now that you are finally inside Noggit's world editor, make sure to look around and explore the UI for a bit first.  
-Also check out Help -> Key Bindings for basic key binding information.
+Also check out Help -> Key Bindings for basic key binding information. 
 
-*This is where the tutorial ends for now, but we're working on adding more very soon.*
+For basic Noggit usage and an introduction to level design I suggest you check out [the relevant part of the video guide](https://youtu.be/TP8YpgiGOPs?t=311) as a video is much better at showing those than can be explained in text.
+
+Noggit Red has undo/redo functionality through Ctrl-Z/Ctrl-Y but keep in mind saving (Ctrl-S) clears the undo buffer, so keep that in mind when saving. Do save as regularly as possible as Noggit can sometimes crash (let us know in the Discord if you encounter a reproducible crash).
