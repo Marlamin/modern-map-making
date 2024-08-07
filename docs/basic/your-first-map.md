@@ -19,3 +19,5 @@ Also check out Help -> Key Bindings for basic key binding information.
 For basic Noggit usage and an introduction to level design I suggest you check out [the relevant part of the video guide](https://youtu.be/TP8YpgiGOPs?t=311) as a video is much better at showing those than can be explained in text.
 
 Noggit Red has undo/redo functionality through Ctrl-Z/Ctrl-Y but keep in mind saving (Ctrl-S) clears the undo buffer, so keep that in mind when saving. Do save as regularly as possible as Noggit can sometimes crash (let us know in the Discord if you encounter a reproducible crash).
+
+> **Note**: For more tutorials on using Noggit Red you can also check out the [WotLK Modding Wiki](https://wotlkdev.github.io/wiki/your_first_mod/your_first_map_edit.html#noggit-red-interface) but keep in mind that this wiki is specific to WotLK (3.3.5) modding which we are not doing, but basic Noggit Red usage (outside of modern features like height texturing and WMO scaling) is the same for WotLK modding. Everything else on that wiki won't apply for us.
