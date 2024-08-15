@@ -17,6 +17,8 @@ If you want to do client previews of your maps locally you can use the sandbox f
 ## (Option 2) Setting up an existing client
 If you have an existing **_unmodified_** 9.2.7.45745 client you can also use that with some modifications.
 
+> **Note:** Unmodified means unmodified, so **do not** try this with e.g. an Epsilon client.
+
 - In `WTF/Config.wtf` change the `SET portal` line to `SET portal "127.0.0.1:8000"`.
 - In `WTF/Config.wtf` change the `SET synchronizeSettings "0"` line to `SET synchronizeSettings "0"`.  
 Add it if it does not exist.
@@ -25,7 +27,6 @@ Add it if it does not exist.
 arctium@arctium
 arctium
 ```
-
 ## Setting up the launcher
 - Download the latest release of the [Launcher](https://github.com/ModernWoWTools/Launcher/releases) and extract it next to WoW.exe (should be in `Client/_retail_`).
 
@@ -41,11 +42,13 @@ arctium
 ## Running the client
 - Double click "Arctium WoW Launcher.exe" (not WoW.exe!). For the first launch it might take a minute to show anything as it is downloading required files.
 - If it doesn't automatically log you in with the included `login.txt`, you can login manually with the account `arctium@arctium` and password `arctium`.
-- Select the "Internal" realm, create a character and log into the world as usual.
+- Select the realm, create a character and log into the world as usual.
 
 ## (Optional) Installing the hot-reload extension
 The hot-reloading extension DLL allows you to hot-reload changes between Noggit, the MapUpconverter and the client within a second after saving in Noggit ([example](https://marlam.in/u/Wow_YbGssG0xpd.mp4)). If you think this is useful for you, this might be something you want.
 
-> **Note:** This requires MapUpconverter 0.8.2 or newer.
+> **Note:** This requires MapUpconverter 0.8.2 or newer. 
+ 
+> **Note:** For Epsilon users, hot reloading is coming with the Shadowlands release. Do not attempt to use this with Epsilon. 
 
 *Instructions coming soon.*
