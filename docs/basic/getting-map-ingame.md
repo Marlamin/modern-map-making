@@ -34,7 +34,7 @@ To know which coordinates to teleport to, you can use the "server coordinates" t
 ## Previewing updates in-game
 When running the MapUpconverter with convert-on-save mode enabled, it will save ADTs to the target output folder every time they change on disk (e.g. when you press Ctrl-S in Noggit). These changes are viewable in-game almost immediately, but will require a map reload.  
 
-> **Note**: In a future tool release and if you are on 9.2.7, you will be able to instantly view changes without teleporting. [(Example)](https://marlam.in/u/Wow_YbGssG0xpd.mp4)
+> **Note**: If you follow our [sandbox setup guide](/sandbox-setup) you can get it set up to almost instantly view any changes in-game instead of e.g. having to teleport back and forth. [(Example)](https://marlam.in/u/Wow_YbGssG0xpd.mp4)
 
 ### (Epsilon only) Quick reload method
 On Epsilon, you can do this in a quick manner by teleporting back and forth between GM Island your map by making this macro:
