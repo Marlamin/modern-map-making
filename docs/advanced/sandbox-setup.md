@@ -4,6 +4,8 @@ slug: /sandbox-setup
 ---
 
 # Sandbox modding setup
+This guide assumes you've already read, understood and did the relevant parts of the basic guide. If not, start [here](/) and circle back at the end of "Getting your map in-game".
+
 ## Setting up the sandbox
 If you want to do client previews of your maps locally you can use the sandbox for that. Note that the sandbox/launcher used in this article is specifically made to only work with a 9.2.7.45745 client. 
 
@@ -48,7 +50,7 @@ arctium
 ## (Optional) Installing the hot-reload extension
 The hot-reloading extension DLL allows you to hot-reload changes between Noggit, the MapUpconverter and the 9.2.7 client within a second after saving in Noggit ([example](https://marlam.in/u/Wow_YbGssG0xpd.mp4)). If you think this is useful for you, this might be something you want.
 
-> **Note:** This requires MapUpconverter 0.8.2 or newer. 
+> **Note:** This requires MapUpconverter 0.8.2 (or newer) and 0.1.1 of the Launcher (or newer). 
  
 > **Note:** For Epsilon users, hot reloading is coming with the Shadowlands release. Do not attempt to use this with Epsilon. 
 
