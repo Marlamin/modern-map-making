@@ -55,6 +55,7 @@ The hot-reloading extension DLL allows you to hot-reload changes between Noggit,
 > **Note:** For Epsilon users, hot reloading is coming with the Shadowlands release. Do not attempt to use this with Epsilon. 
 
 - Download the Arbiter DLL from [here](https://marlam.in/u/arbiterdll.dll) (GitHub releases coming soon™) and place it next to WoW.exe.
+- Create an empty "Patches" directory next to WoW.exe.
 - As Arbiter also adds Epsilon's patch tech, we have to use "Epsilon" as export target in MapUpconverter. Outside of having to enable patches (all patches in the Patches directory are always on), the rest is the same as Epsilon's patch behavior.
 - In the Epsilon Settings tab in MapUpconverter, set the directory to the directory containing `_retail_`. e.g. if your Wow.exe is in `F:/Client/_retail_/Wow.exe` then set this to `F:/Client`.
 - In the Advanced Settings tab in MapUpconverter, turn on "Enable Client Refreshing" and if you know it enter the MapID of your map (the ID you use in teleport commands, this makes reloads faster).
