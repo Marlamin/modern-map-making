@@ -32,12 +32,8 @@ This step uses the template map but will still be useful if you're working with 
 - When done, hit Save Settings.
 
 ### Arctium/Epsilon-specific settings
-When using Arctium/Epsilon integration you will need to set up some other things as well.
+When using Arctium/Epsilon integration you will need to set up some other things in the MapUpconverter as well.
 
 - In the Epsilon/Arctium directory enter the folder that `Epsilon.exe` or `Arctium WoW Launcher.exe` are in. 
 - In the patch name enter `CustomMap`, this should match the name of the extracted folder from `CustomMap(Modern).zip`.
-- For WDT FileDataID you need to set an ID of a WDT that is referenced by Map.db2 in your version.  
-For 8.x-9.x you can use FileDataID `1949764` (Map.db2 ID 1925). If you are on another version, you can use [wago.tools](https://wago.tools/db2/Map?build=11.0.2.55959) to find a different ID of a map present in that version. WDT FileDataIDs are listed in the `WdtFileDataID` column.
-> **Note**: Maps can have different flags set in Map.db2, some flags can affect rendering.
-
-> **Advanced**: If you can add hotfixes (e.g. on the Arctium sandbox) you can create your own map and assign a custom FileDataID.  
+- For the WDT FileDataID field targeting WoW versions 8.x-9.x you should enter WDT FileDataID `1949764` (Map ID 1925). 
