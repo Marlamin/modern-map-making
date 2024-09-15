@@ -4,6 +4,7 @@ slug: /modern-lights
 ---
 
 # Using modern lights
+> **Note:** Adding modern lights to your map requires MapUpconverter version 0.9.0 or higher.
 ## Basic usage
 - Download the MPQ patch with some basic lights from the `#guide-resources` channel in the Discord and add it to the Data folder in your WotLK client (you can rename the patch to a different letter if it is already taken).
 - Start Noggit, load up your map and open up the asset browser.
