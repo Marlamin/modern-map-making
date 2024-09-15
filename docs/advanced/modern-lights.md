@@ -6,10 +6,11 @@ slug: /modern-lights
 # Using modern lights
 > **Note:** Adding modern lights to your map requires MapUpconverter version 0.9.0 or higher.
 ## Basic usage
-- Download the MPQ patch with some basic lights from the `#guide-resources` channel in the Discord and add it to the Data folder in your WotLK client (you can rename the patch to a different letter if it is already taken).
+- Download "Modern lights MPQ patch for Noggit" from the [#guide-resources](https://discord.com/channels/1264317233190928385/1268871553010106480) channel in the Discord.
+- Put it in your WotLK client's Data folder (you can rename the patch to a different letter if it is already taken).
 - Start Noggit, load up your map and open up the asset browser.
 - You should now have various lights inside of the "noggit" folder (search for `noggit` to easily find them).
-- Light names with "withshadows" will cast shadows on DirectX 12 when the Raytraced Shadows setting is set to "good" or higher.
+- Light names with `withshadows` will cast shadows on DirectX 12 when the Raytraced Shadows setting is set to "good" or higher.
 - Place lights down like any other M2 object. The scale of the object will decide the intensity/radius of the light.
 - When placing the objects on the ground, make sure to move them up a bit so the light appears above ground and not under it.
 - Make sure "Convert WDT" is checked in the upconverter GUI when adding a light for the first time.
