@@ -13,7 +13,8 @@ slug: /modern-lights
 - Light names with `withshadows` will cast shadows on DirectX 12 when the Raytraced Shadows setting is set to "good" or higher.
 - Place lights down like any other M2 object. The scale of the object will decide the intensity/radius of the light.
 - When placing the objects on the ground, make sure to move them up a bit so the light appears above ground and not under it.
-- Make sure "Convert WDT" is checked in the upconverter GUI when adding a light for the first time.
+- Make sure "Convert WDT" is checked in the MapUpconverter GUI when adding a light for the first time.
+- Make sure "Target Version" in the MapUpconverter GUI is set to 9.2.7+ as modern lights are currently only supported in 9.2.7+.
 - When the map is converted by the MapUpconverter, it will replace the lights with actual modern lights.
 - If this is the first time adding a light, a client restart might be required to pick up on the new WDT file that contains the lights.
 > **Note:** Lights do not refresh yet when using "client refresh", you will have to port away/back or relog to reload the map and its lights. This is because the lights are not stored in ADTs but in a WDT.
