@@ -21,5 +21,5 @@ Download the latest Noggit release with modern features from the [#releases](htt
 Download the latest `MapUpconverter` from the [#releases](https://discord.com/channels/1264317233190928385/1264319052583801059) channel in the Discord and extract it somewhere.
 
 ### Terrain height texture config
-The latest `global.cfg` with terrain height texture values from the [#releases](https://discord.com/channels/1264317233190928385/1264319052583801059) channel in the Discord. After making your first Noggit project (see next tutorial) make a folder called `extraData` in your Noggit project folder and put the `global.cfg` in there.  
+Get the latest `global.cfg` with terrain height texture values from the [#releases](https://discord.com/channels/1264317233190928385/1264319052583801059) channel in the Discord. After making your first Noggit project (see next tutorial) make a folder called `extraData` in your Noggit project folder and put the `global.cfg` in there.  
 Then, in the MapUpconverter directory, make a `meta` folder, copy `global.cfg` into it and rename it to `TextureInfoByFilePath.json`.
