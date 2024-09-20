@@ -19,7 +19,7 @@ When editing existing continents you might encounter terrain un-loading after ma
 
 ## Models
 ### My custom M2/WMO is not appearing ingame or appearing/disappearing.
-When you have custom M2s or WMOs in your map they might disappear or not appear at all. You will need to set a bounding box for these FileDataIDs in the MapUpconverter's `meta/blob.json` file and then reconvert to fix this. You can view the a bounding box for your custom M2/WMO by dropping it on top of the MetaGen tool that is included with MapUpconverter 0.9+.
+When you have custom M2s or WMOs in your map they might disappear or not appear at all. You will need to set a bounding box for these FileDataIDs in the MapUpconverter's `meta/blob.json` file and then reconvert to fix this. Check [this](/custom-models) for more information.
 
 ## Ground effects
 ### Ground effects are showing up where I don't want them (e.g. roads).
