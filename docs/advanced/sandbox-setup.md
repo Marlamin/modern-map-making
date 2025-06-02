@@ -13,7 +13,7 @@ If you want to do client previews of your maps locally you can use the sandbox f
 - Download the latest release of the [Sandbox](https://github.com/ModernWoWTools/Sandbox/releases) and extract it to a subfolder called Sandbox.
 
 ## (Option 1) Setting up a new client
-- Download the required client files from [here](https://wow.tools/pub/927Client.zip). Note that this client is a streaming client and it'll stream data.
+- Download the required client files from [here](https://marlam.in/u/927Client.zip). Note that this client is a streaming client and it'll stream data.
 - Extract it to a subfolder called Client.
 
 ## (Option 2) Setting up an existing client
